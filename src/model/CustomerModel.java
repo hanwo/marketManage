@@ -6,10 +6,10 @@ public class CustomerModel {
 	private static Customer[] list = new Customer[5];
 	private static int index;
 	
-	//test µ¥ÀÌÅÍ ÀúÀå
+	//test ë°ì´í„°ì €ì¥
 	static {
 		list[0] = new Customer("admin",0);
-		list[1] = new Customer("¼ÛÆòÇö", 88);
+		list[1] = new Customer("í•œìš°ì„", 88);
 		index = 2;
 	}
 	
