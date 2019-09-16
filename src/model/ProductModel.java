@@ -7,9 +7,9 @@ public class ProductModel {
 	private static int index;
 
 	static {
-		productlist[0] = new Product("Çã½¬" , 1700);
-		productlist[1] = new Product("Æä·¹·¹·Î½¦" , 2500);
-		productlist[2] = new Product("°¡³ª" , 1200);
+		productlist[0] = new Product("í—ˆì‰¬" , 1700);
+		productlist[1] = new Product("í˜ë ˆë ˆë¡œì‰" , 2500);
+		productlist[2] = new Product("ê°€ë‚˜" , 1200);
 		index = 3;
 	}
 	
